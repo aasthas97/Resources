@@ -11,3 +11,4 @@ Please note that **some of this work is not owned by me, so give due credit**!
 1. ```external``` contains links to useful webpages, with short descriptions.
 2. ```tutorial``` contains NMA tutorial solutions
 3. ```exp``` contains little experiments of my own.
+4. ```readings``` contains relevant readings.
