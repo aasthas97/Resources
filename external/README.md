@@ -7,3 +7,4 @@ Links to useful webpages!
 - Using GitHub for version control and collaboration
     - [See these slides](https://drive.google.com/file/d/1T8qAa70uQ_OhQYqilbtruhq2oscgzOUS/view)
     - [See 'GitHub for Poets' by Daniel Shiffman](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+- [Machine Learning for Computer Vision](https://github.com/lmoroney/mlday-tokyo): Series of six tutorials (prepared by Laurence Moroney for ML Day, Tokyo) covering basic machine learning techniques, with a focus on computer vision.
