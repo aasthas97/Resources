@@ -1,14 +1,8 @@
-# Neuromatch Academy Resources
+# Resources
 
-A collection of resources shared during NMA 2020 - either by the academy itself or by other members of the community (students, TAs, etc.). This repo also contains tutorial solutions and other (sometimes random) code written during and after NMA. Feel free to use.
-Please note that **some of this work is not owned by me, so give due credit**!
-
-## Neuromatch Links
-- [Website](https://neuromatchacademy.org)
-- [GitHub](http://github.com/NeuromatchAcademy/course-content)
+A collection of resources (mostly pertaining to cognitive science) found while exploring the world wide web. This repo also contains my views on things that interest me and (random) code. Feel free to use. Please note that **some of this work is not owned by me, so give due credit**!
 
 ## Guide
 1. ```external``` contains links to useful webpages, with short descriptions.
-2. ```tutorial``` contains NMA tutorial solutions
-3. ```exp``` contains little experiments of my own.
-4. ```readings``` contains relevant readings.
+2. ```exp``` contains little experiments of my own.
+3. ```readings``` contains relevant readings.
