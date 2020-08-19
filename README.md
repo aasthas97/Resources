@@ -4,5 +4,5 @@ A collection of resources (mostly pertaining to cognitive science) found while e
 
 ## Guide
 1. ```external``` contains links to useful webpages, with short descriptions.
-2. ```exp``` contains little experiments of my own.
+2. ```newsletter```: Pensee archived issues
 3. ```readings``` contains relevant readings.
