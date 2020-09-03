@@ -11,18 +11,6 @@ class Calculator:
         self.a = 0
         self.b = 0
 
-    def add(self, a, b):
-        return a + b
-
-    def sub(self, a, b):
-        return a - b
-
-    def mul(self, a, b):
-        return a * b
-
-    def div(self, a, b):
-        return a // b
-
     def allclear(self):
         """Clear everything and start again"""
         os.system('cls')
@@ -53,21 +41,20 @@ class Calculator:
             in2 = self.b if in2 == '' else int(in2)
 
             if op == '+':
-                result = self.add(in1, in2)
+                result = in1 + in2
                 print(result)
 
             elif op == '-':
-                result = self.sub(in1, in2)
+                result = in1 - in2
                 print(result)
 
             elif op == '*':
-                result = self.mul(in1, in2)
+                result = in1 * in2
                 print(result)
 
             elif op == '/':
-                result = self.div(in1, in2)
+                result = in1 // in2
                 print(result)
-
 
             else:
                 print('Invalid operation.')
